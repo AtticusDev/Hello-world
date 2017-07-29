@@ -1,2 +1,2 @@
 # Hello-world
-initial testing
+I am a beginner developer and am looking to improve my understanding.
